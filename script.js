@@ -1,4 +1,4 @@
-  <script>
+
      web3.currentProvider.sendAsync({
   method: 'metamask_watchAsset',
   params: {
@@ -12,4 +12,4 @@
   },
   id: 20,
 }, console.log)
- </script>
+ 
