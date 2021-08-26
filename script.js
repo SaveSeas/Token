@@ -1,5 +1,5 @@
 
-     web3.currentProvider.sendAsync({
+  web3.currentProvider.sendAsync({
   method: 'metamask_watchAsset',
   params: {
     "type":"ERC20",
