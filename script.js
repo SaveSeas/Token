@@ -1,3 +1,6 @@
+  <script>
+     
+ 
 const tokenAddress = '0x49B9a2D12845bda30B516247d1B7f552eB4de982';
 const tokenSymbol = 'SEAS';
 const tokenDecimals = 9;
@@ -26,3 +29,5 @@ try {
 } catch (error) {
   console.log(error);
 }
+
+ </script>
